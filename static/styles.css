@@ -1,0 +1,21 @@
+.add{
+  display: flex;
+  flex-direction: column;
+  border-style: solid;
+  padding: 10px;
+
+}
+h1{
+  color: gray;
+  font-family: 'Roboto', sans-serif;;
+}
+h2{
+  color: gray;
+  font-family: 'Roboto', sans-serif;;
+}
+body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
